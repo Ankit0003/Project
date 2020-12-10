@@ -1,2 +1,2 @@
-# Project
+# Minor_Project
 Assisstive Vision
